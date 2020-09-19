@@ -1,4 +1,4 @@
-[![Nirvarnia Brand](https://raw.githubusercontent.com/nirvarnia/brand/blob/latest/dev/dist/banner/nirvarnia-root.svg?sanitize=true)](https://github.com/nirvarnia)
+[![Nirvarnia Brand](https://raw.githubusercontent.com/nirvarnia/brand/latest/dev/dist/banners/nirvarnia-root.svg?sanitize=true)](https://github.com/nirvarnia)
 <!--
 [![Nirvarnia Brand](https://raw.githubusercontent.com/nirvarnia/brand/v1.0.0/dist/banner/nirvarnia-banner.svg?sanitize=true)](https://github.com/nirvarnia)
 -->
