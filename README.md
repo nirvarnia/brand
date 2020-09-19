@@ -5,10 +5,10 @@
 
 # Nirvarnia Branding
 
-**Logos, icons and related branding for the Nirvarnia project.**
+[![Version](https://img.shields.io/static/v1.svg?style=for-the-badge&label=Version&message=0.0.0&labelColor=555&color=CCC&maxAge=3600)](https://github.com/nirvarnia/brand/releases)
+[![License](https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=CC%20BY-NC-ND&labelColor=555&color=CCC&maxAge=3600)](LICENSE.txt)
 
-[![Version](https://img.shields.io/static/v1.svg?style=for-the-badge&label=Version&message=0.0.0&labelColor=999&color=CCC&maxAge=3600)](https://github.com/nirvarnia/brand/releases)
-[![License](https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=CC%20BY-NC-ND&labelColor=999&color=CCC&maxAge=3600)](LICENSE.txt)
+**Logos, icons and related branding for the Nirvarnia project.**
 
 
 ## Requirements
