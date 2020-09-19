@@ -5,7 +5,7 @@
 
 # Nirvarnia Branding
 
-[![Version](https://img.shields.io/static/v1.svg?style=for-the-badge&label=Version&message=0.0.0&labelColor=EEE&color=DDD&maxAge=3600)](https://github.com/nirvarnia/brand/releases)
+[![Version](https://img.shields.io/static/v1.svg?style=for-the-badge&label=Version&message=0.0.0&labelColor=EEE&color=E6E6E6&maxAge=3600)](https://github.com/nirvarnia/brand/releases)
 [![License](https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=CC%20BY-NC-ND&labelColor=EEE&color=DDD&maxAge=3600)](LICENSE.txt)
 
 **Logos, icons and branding guidelines for the Nirvarnia project.**
