@@ -30,6 +30,7 @@ The Nirvarnia logomark — the butterfly abstraction made of four rounded square
 
 ----
 
-Crafted with ❤ in Bristol, UK \
+Crafted with ❤ in Bristol, UK
+
 Copyright © 2020+ Hacks, Inc. \
 Distributed under the [CC BY-NC-ND 4.0](LICENSE.txt) license
