@@ -28,8 +28,8 @@ This license lets you use, copy and redistribute Nirvarnia logos and related bra
 
 The Nirvarnia logomark — the butterfly abstraction made of four rounded squares — is adapted from a symbol purchased from [The Noun Project](https://thenounproject.com/).
 
+----
 
-## License
-
+Crafted with ❤ in Bristol, UK \
 Copyright © 2020+ Hacks, Inc. \
-Distributed under the [CC BY-NC-ND 4.0](LICENSE.txt) license.
+Distributed under the [CC BY-NC-ND 4.0](LICENSE.txt) license
