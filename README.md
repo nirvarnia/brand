@@ -6,8 +6,8 @@
 # Branding
 **Logos, icons and branding guidelines for the Nirvarnia project.**
 
-[![Version](https://img.shields.io/static/v1.svg?style=for-the-badge&label=Version&message=0.0.0&labelColor=EEEEEE&color=E6E6E6&maxAge=3600)](https://github.com/nirvarnia/brand/releases)
-[![License](https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=CC%20BY-NC-ND&labelColor=EEEEEE&color=E6E6E6&maxAge=3600)](LICENSE.txt)
+[![Version](https://img.shields.io/static/v1.svg?style=for-the-badge&label=Version&message=0.0.0&labelColor=EEEEEE&color=E6E6E6&cacheSeconds=3600)](https://github.com/nirvarnia/brand/releases)
+[![License](https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=CC%20BY-NC-ND&labelColor=EEEEEE&color=E6E6E6&cacheSeconds=86400)](LICENSE.txt)
 
 ## Requirements
 
